@@ -1,4 +1,4 @@
-# My Note Book
+# My Note Book Index
 
 [GitHub](https://github.com/tonyddg/notebook)
-[Get Started](#main)
+[Get Started](#Index)
